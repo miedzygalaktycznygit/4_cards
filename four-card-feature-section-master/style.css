@@ -1,10 +1,12 @@
 @font-face {
-  font-family: Poppins;
-  src: url(fonts/Poppins-ExtraLight.ttf);
+    font-family: Poppins;
+    src: url(fonts/Poppins-ExtraLight.ttf);
+    font-display: swap;
 }
 @font-face {
-  font-family: Poppins2;
-  src: url(fonts/Poppins-Medium.ttf);
+    font-family: Poppins2;
+    src: url(fonts/Poppins-Medium.ttf);
+    font-display: swap;
 }
 /*
   Josh's Custom CSS Reset
